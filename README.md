@@ -1,27 +1,29 @@
-# SpaAngular
+# SPA-Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+<img src="src/assets/images/img_spa.png">
 
-## Development server
+Uma pequena Aplicação de Página Única (SPA) com duas rotas apenas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# Diretivas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Esse projeto utiliza o [Angular CLI](https://github.com/angular/angular-cli).
 
-## Build
+# Pré-requisitos
+<ul>
+	<li>nodeJs</li>
+	<li>npm</li>
+</ul>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# Install
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Abra o CMD ou terminal<br/>
+	Instale o Angular CLI, através dele vamos iniciar o servidor local para executar a aplicação.<br/>
+`npm -g install "@angular/cli"` <br/><br/>
+	Instale o Typescript que também tá no NPM.<br/>
+`npm install -g typescript` <br/><br/>
+	Para verificar se esta tudo certo<br/>
+`ng --version` <br/><br/>
+	Para iniciar o servidor local para rodar o projeto.<br/>
+`ng serve`<br/><br/>
+	Acesse a URL indicada, por exemplo, http://localhost:4200 para vizualizar o projeto.<br/>
