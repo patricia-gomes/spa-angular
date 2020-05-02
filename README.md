@@ -2,14 +2,14 @@
 
 <img src="src/assets/images/img_spa.png">
 
-Uma pequena Aplicação de Página Única (SPA) com duas rotas apenas.
+Uma pequena AplicaÃ§Ã£o de PÃ¡gina Ãšnica (SPA) com duas rotas apenas.
 
 
 # Diretivas
 
 Esse projeto utiliza o [Angular CLI](https://github.com/angular/angular-cli).
 
-# Pré-requisitos
+# PrÃ©-requisitos
 <ul>
 	<li>nodeJs</li>
 	<li>npm</li>
@@ -18,12 +18,12 @@ Esse projeto utiliza o [Angular CLI](https://github.com/angular/angular-cli).
 # Install
 
 Abra o CMD ou terminal<br/>
-	Instale o Angular CLI, através dele vamos iniciar o servidor local para executar a aplicação.<br/>
+	Instale o Angular CLI, atravÃ©s dele vamos iniciar o servidor local para executar a aplicaÃ§Ã£o.<br/>
 `npm -g install "@angular/cli"` <br/><br/>
-	Instale o Typescript que também tá no NPM.<br/>
+	Instale o Typescript que tambÃ©m tÃ¡ no NPM.<br/>
 `npm install -g typescript` <br/><br/>
 	Para verificar se esta tudo certo<br/>
 `ng --version` <br/><br/>
 	Para iniciar o servidor local para rodar o projeto.<br/>
 `ng serve`<br/><br/>
-	Acesse a URL indicada, por exemplo, http://localhost:4200 para vizualizar o projeto.<br/>
+	Acesse a URL indicada, por exemplo, `http://localhost:4200` para vizualizar o projeto.<br/>
