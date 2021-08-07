@@ -12,6 +12,7 @@
 	font-size: 23px;
 }
 .menu a {
+	font-size: 18px;
 	color:red;
 	text-decoration: none;
 }
@@ -43,21 +44,10 @@
 }
 .container {
 	position:absolute;
+	font-weight: 800;
 	width: 1100px;
 }
 
-@media screen and (min-width:1440px) and (max-width:2560px) {
-	.main_menu_Int,
-	.article_main_Int {
-		max-width: 2300px;
-	}
-	.article_main {
-		background-image: url('../assets/images/stars4k.png');
-	}
-	.container {
-		width: 2300px;
-	}
-}
 @media screen and (min-width:1024px) and (max-width:1440px) {
 	.main_menu_Int,
 	.article_main_Int {
